@@ -1,4 +1,4 @@
-public class NoTransportException {
+public class NoTransportException extends RuntimeException {
 
 
 }

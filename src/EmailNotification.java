@@ -1,2 +1,8 @@
-public class EmailNotification {
+public class EmailNotification extends Notification {
+    private String recipient
+    private String smtpProvider
+
 }
+
+
+
